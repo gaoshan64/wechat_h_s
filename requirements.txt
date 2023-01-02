@@ -1,0 +1,13 @@
+certifi==2022.6.15.1
+charset-normalizer==2.1.1
+future==0.18.2
+idna==3.3
+itchat==1.2.32
+psutil==5.9.2
+pypng==0.20220715.0
+PyQRCode==1.2.1
+requests==2.28.1
+tornado==6.2
+urllib3==1.26.12
+wechat-sender==0.1.4
+wxpy==0.3.9.8
